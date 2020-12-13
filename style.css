@@ -4,7 +4,7 @@ margin: 0; padding: 0; box-sizing: border-box;
 }
 header{
 width:100%; height:100vh;
-background-image: url('taj2.jpg');
+background-image: url('https://images.unsplash.com/photo-1576487248805-cf45f6bcc67f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8dGFqJTIwbWFoYWx8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
 background-repeat:no-repeat;
 background-size:cover;
 }
